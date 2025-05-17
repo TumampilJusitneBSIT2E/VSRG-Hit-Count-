@@ -1,2 +1,2 @@
-# VSRG-Hit-Count
-An external tool to see status of your hit count judgment while playing. 
+# Online-Booking-&-Ticketing-System-BSIT2E-G2
+W.I.P project that implements online booking and ticketing system. (For ITEC-60A)
